@@ -137,6 +137,7 @@ searchInput.addEventListener('keyup', function (event) {
   debounceTimer = setTimeout(search, 300); 
 });
 ```
+![SCREENSHOT 2.b.iii — Frontend showing instant search results parsed into a clean table](Screenshots/Lab4-Task2b-Instant.png)
 
 ---
 
