@@ -1,7 +1,7 @@
 /* =============================================================================
  * EECE/CS 3093C Software Engineering — Lab 4
  * client.js — code skeleton provided by Dr. Phu Phung in Lab 1
- * Code complete implementation by Phu Phung
+ * Code complete implementation by Vedant Bharate
  * ===============================================================================
  */
 
